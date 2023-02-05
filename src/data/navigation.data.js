@@ -8,7 +8,7 @@ const navigationLinks = [
   {
     id: 2,
     title: 'source code',
-    route: 'https://github.com/gvgesanto2/microverse-soccer-players',
+    route: 'https://github.com/mabkhaled/premier-league-react',
     isExternal: true,
   },
 ];

@@ -13,7 +13,7 @@ export default function Header() {
         <div className="header__content">
           <Link className="header__logo" to="/" data-testid="logo-link">
             <Icon iconName="pl-logo" size="lg" />
-            <span className="header__logo-text">Players Stats</span>
+            <span className="header__logo-text"> PL Players Stats</span>
           </Link>
 
           <nav className="header__nav">

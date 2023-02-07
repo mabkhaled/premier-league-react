@@ -55,7 +55,7 @@ $ npm test
 
 ## Authors
 
-👤 **Gabriel Santo**
+👤 **Khaled Mabrouk**
 
 - GitHub: [@mabkhaled](https://github.com/mabkhaled)
 - LinkedIn: [khaled mabrouk](https://www.linkedin.com/in/mabrouk-khaled/)
